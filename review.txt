@@ -1,0 +1,7 @@
+ 
+- Why you have 1.ico duplicates? One in resource folder and other in root folder
+- Too many obvious & verbose comments that are rather useless
+- Why you use russian comments & english ones? Choose a code style and stick to it, do not make a mess
+- Why you have folder windows and mainwindow isn't in this folder?
+
+In general, read about code guidelines, how code should be written and structured, especially in C#
